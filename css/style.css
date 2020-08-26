@@ -120,6 +120,7 @@ header  ul li a:hover{
 }
 
 
+
 /*service*/
 
 
@@ -127,7 +128,7 @@ header  ul li a:hover{
     position: relative;
     padding: 100px 0px;
     text-align: center;
-    margin-top: -50px;
+    margin-top: -150px;
 }
 
 
@@ -411,9 +412,11 @@ header  ul li a:hover{
 }
 .contact-area textarea{
     min-height: 115px;
+    
 }
 .contact-area .default-btn{
     padding: 10px;
+    color: black;
 }
 
 /* Footer */

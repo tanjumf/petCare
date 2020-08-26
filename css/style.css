@@ -412,11 +412,9 @@ header  ul li a:hover{
 }
 .contact-area textarea{
     min-height: 115px;
-    
 }
 .contact-area .default-btn{
     padding: 10px;
-    color: black;
 }
 
 /* Footer */
